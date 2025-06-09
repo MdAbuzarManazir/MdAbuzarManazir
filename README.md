@@ -17,15 +17,15 @@
 <h2 align="center">🙋‍♂️ About Me</h2>
 
 <p align="center">
-I’m a  Software Developer from India, with a love for exploring cutting-edge technologies, diving deep into programming languages, and creating scalable, efficient solutions. My interests span from backend development to DevOps and system design.
+I’m a  Software Developer from India, with a love for exploring cutting-edge technologies, diving deep into programming languages, and creating scalable, efficient solutions. My interests span from data science development to DevOps and system design.
 </p>
 
 - 🔭 **Current Projects:** Python, Tableau,Git,Docker.  
 - 👯 **Looking to Collaborate:** Data science and Open Source projects.  
 - 🌱 **Currently Learning:** DevOps practices, Kubernetes, and CI/CD pipelines.  
 - 💬 **Ask Me About:** Data science and DevOps tools.  
-- 📫 **Contact Me:** algorithmunloack@gmail.com  
-- ⚡ **Fun Fact:** Data is new oil*  
+- 📫 **Contact Me:** abuzar.manazir9639@gmail.com
+- ⚡ **Fun Fact:** Data is new oil
 
 ---
 
