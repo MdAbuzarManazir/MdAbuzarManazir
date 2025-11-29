@@ -51,9 +51,6 @@ I’m a  Software Developer from India, with a love for exploring cutting-edge t
 ---
 
 
-
----
-
 <h2 align="center">🎯 Summary Cards</h2>
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MdAbuzarManazir&theme=tokyonight" height="150" />
