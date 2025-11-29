@@ -22,7 +22,7 @@
 - Whether it’s analyzing HR data to uncover attrition trends or creating dashboards to communicate business insights, I believe in the power of data to tell compelling stories.
 - I’m currently expanding my knowledge in deep learning, time-series forecasting, and big data tools like Apache Hadoop, Apache Spark.
 
-Let’s connect and explore the world of data together!
+* Let’s connect and explore the world of data together!
 
 
 - 🔭 **Current Projects:** Python, Tableau, MS Excel.  
