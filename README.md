@@ -34,12 +34,14 @@ I’m a  Software Developer from India, with a love for exploring cutting-edge t
 <img src="https://skillicons.dev/icons?i=go,rust,cpp,python,js,html,css,bash,nodejs,react,nextjs,redux,express,mongodb,postgres,redis,docker,kubernetes,jenkins,git,github,linux,vercel,postman,vscode,regex,reactnative&theme=dark" alt="Tech Stack" />
 </p>
 
+---
 
 <h2 align="center">🏆 Achievements</h2>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=MdAbuzarManazir&theme=juicyfresh&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
+---
 
 <h2 align="center">📈 Activity Graph</h2>
 <p align="center">
