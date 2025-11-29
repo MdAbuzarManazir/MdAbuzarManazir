@@ -36,7 +36,9 @@
 
 <h2 align="center">🔧 Technologies & Tools</h2>
 
-<p align="center">  **SQL**, **Tableau**, **MS Excel**, **Python**
+<p align="center">  
+  
+**SQL**, **Tableau**, **MS Excel**, **Python**, **AWS**, 
 
 ---
 
