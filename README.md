@@ -23,7 +23,7 @@ I enjoy turning raw data into meaningful insights that drive decision-making and
 🚀 I’m currently expanding my knowledge in deep learning, time-series forecasting, and big data tools like Apache Hadoop, Apache Spark.
 
 Let’s connect and explore the world of data together!
-</p>
+
 
 - 🔭 **Current Projects:** Python, Tableau, MS Excel.  
 - 👯 **Looking to Collaborate:** Data science and Open Source projects.  
