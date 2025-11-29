@@ -33,7 +33,7 @@ I’m a  Software Developer from India, with a love for exploring cutting-edge t
 <p align="center">
 <img src="https://skillicons.dev/icons?i=go,rust,cpp,python,js,html,css,bash,nodejs,react,nextjs,redux,express,mongodb,postgres,redis,docker,kubernetes,jenkins,git,github,linux,vercel,postman,vscode,regex,reactnative&theme=dark" alt="Tech Stack" />
 </p>
----
+
 
 <h2 align="center">🏆 Achievements</h2>
 <p align="center">
