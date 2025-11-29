@@ -40,7 +40,6 @@ I’m a  Software Developer from India, with a love for exploring cutting-edge t
 <img src="https://github-profile-trophy.vercel.app/?username=MdAbuzarManazir&theme=juicyfresh&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
----
 
 <h2 align="center">📈 Activity Graph</h2>
 <p align="center">
