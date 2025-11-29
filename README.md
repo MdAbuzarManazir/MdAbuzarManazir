@@ -15,8 +15,9 @@
 
 <h2 align="center">🙋‍♂️ About Me</h2>
 
-<p align="center">
-I’m a passionate Data Science student with a strong foundation in statistics and data visualization. I enjoy turning raw data into meaningful insights that drive decision-making and solve real-world problems.
+
+I’m a passionate Data Science student with a strong foundation in statistics and data visualization. 
+I enjoy turning raw data into meaningful insights that drive decision-making and solve real-world problems.
 🔢 I’m skilled in tools and technologies like Python, NumPy, Pandas, Matplotlib, SQL, and Tableau. I’ve worked on projects in predictive analytics, data cleaning, data visualization using Tableau.
 📊 Whether it’s analyzing HR data to uncover attrition trends or creating dashboards to communicate business insights, I believe in the power of data to tell compelling stories.
 🚀 I’m currently expanding my knowledge in deep learning, time-series forecasting, and big data tools like Apache Hadoop, Apache Spark.
