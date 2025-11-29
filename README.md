@@ -36,10 +36,10 @@
 
 <h2 align="center">🔧 Technologies & Tools</h2>
 
-<p align="center"> Python, 
-SQL, Tableau, 
-MS Excel, Git, Github,
-VS Code, Apache Spark, Apache Hadoop, Apache Kafka 
+<p align="center"> Python 
+<p align="center"> SQL, Tableau
+<p align="center"> MS Excel, Git, Github
+<p align="center"> VS Code, Apache Spark, Apache Hadoop, Apache Kafka
 
 ---
 
