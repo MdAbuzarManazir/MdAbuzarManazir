@@ -36,9 +36,7 @@
 
 <h2 align="center">🔧 Technologies & Tools</h2>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,html,css,git,github,vscode,sql,tableau,msexcel&theme=dark" alt="Tech Stack" />
-</p>
+**SQL**, **Tableau**, **MS Excel**, **Python**
 
 ---
 
