@@ -37,9 +37,10 @@
 <h2 align="center">🔧 Technologies & Tools</h2>
 
 <p align="center"> 【﻿𝐏𝐲𝐭𝐡𝐨𝐧】
-<p align="center"> 【﻿𝐒𝐐𝐋, 𝐓𝐚𝐛𝐥𝐞𝐚𝐮】
-<p align="center"> 【﻿𝐌𝐒 𝐄𝐱𝐜𝐞𝐥, 𝐆𝐢𝐭, 𝐆𝐢𝐭𝐡𝐮𝐛】
-<p align="center"> 【﻿𝐕𝐒 𝐂𝐨𝐝𝐞, 𝐀𝐩𝐚𝐜𝐡𝐞 𝐒𝐩𝐚𝐫𝐤, 𝐀𝐩𝐚𝐜𝐡𝐞 𝐇𝐚𝐝𝐨𝐨𝐩, 𝐀𝐩𝐚𝐜𝐡𝐞 𝐊𝐚𝐟𝐤𝐚】
+<p align="center"> 【﻿﻿𝐆𝐢𝐭, 𝐆𝐢𝐭𝐡𝐮𝐛】
+<p align="center"> 【𝐇𝐓𝐌𝐋, 𝐂𝐒𝐒﻿, 𝐕𝐒 𝐂𝐨𝐝𝐞】
+<p align="center"> 【﻿𝐒𝐐𝐋, 𝐓𝐚𝐛𝐥𝐞𝐚𝐮, 𝐌𝐒 𝐄𝐱𝐜𝐞𝐥, 𝐑 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞】
+<p align="center"> 【﻿𝐒𝐩𝐚𝐫𝐤, 𝐇𝐚𝐝𝐨𝐨𝐩, 𝐊𝐚𝐟𝐤𝐚, 𝐒𝐜𝐚𝐥𝐚, 𝐏𝐲𝐒𝐩𝐚𝐫𝐤】
 
 ---
 
