@@ -42,31 +42,6 @@
 
 ---
 
-<h2 align="center">🏆 Achievements</h2>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MdAbuzarManazir&theme=juicyfresh&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
----
-
-<h2 align="center">📈 Activity Graph</h2>
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MdAbuzarManazir&theme=tokyo-night" alt="GitHub Contribution Graph" />
-</p>
-
----
-
-
-<h2 align="center">🎯 Summary Cards</h2>
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MdAbuzarManazir&theme=tokyonight" height="150" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MdAbuzarManazir&theme=tokyonight" height="150" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MdAbuzarManazir&theme=tokyonight" height="150" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MdAbuzarManazir&theme=tokyonight" height="150" />
-</div>
-
----
-
 <h2 align="center">💡 Fun Activity</h2>
 <p align="center">Here’s a random programming joke for you:</p>
 <p align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></p>
