@@ -34,19 +34,6 @@ I’m a  Software Developer from India, with a love for exploring cutting-edge t
 <p align="center">
 <img src="https://skillicons.dev/icons?i=go,rust,cpp,python,js,html,css,bash,nodejs,react,nextjs,redux,express,mongodb,postgres,redis,docker,kubernetes,jenkins,git,github,linux,vercel,postman,vscode,regex,reactnative&theme=dark" alt="Tech Stack" />
 </p>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MdAbuzarManazir&show_icons=true&theme=tokyonight" alt="Kaushik Raj's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdAbuzarManazir&theme=tokyonight" alt="GitHub Streak" />
-</div>
-<br />
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAbuzarManazir&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
 ---
 
 <h2 align="center">🏆 Achievements</h2>
